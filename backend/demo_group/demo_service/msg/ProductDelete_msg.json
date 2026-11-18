@@ -1,0 +1,12 @@
+{
+  "KOR": {
+    "0": "상품 삭제가 완료되었습니다.",
+    "10": "삭제할 상품이 없습니다.",
+    "18": "상품 ID는 1–2147483647 사이의 정수여야 합니다."
+  },
+  "USA": {
+    "0": "Product deleted successfully.",
+    "10": "The product to delete was not found.",
+    "18": "The product ID must be an integer between 1 and 2147483647."
+  }
+}

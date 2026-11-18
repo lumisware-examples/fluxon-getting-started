@@ -1,0 +1,14 @@
+{
+  "com_code": "fluxondemo",
+  "group": "demo_group",
+  "service": "demo_service",
+  "call": "ExampleUpdate",
+  "case": "work",
+  "c_code": "KOR",
+  "request_data": {
+    "id": 5,
+    "category": "HOME",
+    "name": "Mug",
+    "price": 9000
+  }
+}

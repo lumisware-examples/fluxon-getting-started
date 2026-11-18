@@ -1,0 +1,12 @@
+{
+  "KOR": {
+    "0": "공통 함수로 합계를 계산했습니다.",
+    "10": "단가는 0–2147483647의 정수로 입력하세요.",
+    "11": "수량은 1–100의 정수로 입력하세요."
+  },
+  "USA": {
+    "0": "Calculated the total using a shared function.",
+    "10": "Enter an integer unit price from 0 to 2147483647.",
+    "11": "Enter an integer quantity from 1 to 100."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "case": "work",
+  "com_code": "fluxondemo",
+  "group": "demo_group",
+  "service": "examples",
+  "call": "ExampleResponse",
+  "c_code": "USA",
+  "cache_sec": 0,
+  "wait_sec": 10,
+  "request_data": {
+    "name": "Beginner"
+  }
+}

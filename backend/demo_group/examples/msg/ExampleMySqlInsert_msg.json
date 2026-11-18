@@ -1,0 +1,12 @@
+{
+  "KOR": {
+    "0": "실습 데이터를 등록했습니다.",
+    "11": "이름은 공백을 제외하고 1–80자로 입력하세요.",
+    "12": "가격은 0–2147483647의 정수로 입력하세요."
+  },
+  "USA": {
+    "0": "Created the lesson record.",
+    "11": "Enter a name of 1 to 80 characters after trimming.",
+    "12": "Enter an integer price from 0 to 2147483647."
+  }
+}

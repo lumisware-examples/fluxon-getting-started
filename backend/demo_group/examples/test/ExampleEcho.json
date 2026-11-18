@@ -1,0 +1,14 @@
+{
+  "case": "work",
+  "com_code": "fluxondemo",
+  "group": "demo_group",
+  "service": "examples",
+  "call": "ExampleEcho",
+  "c_code": "KOR",
+  "cache_sec": 0,
+  "wait_sec": 10,
+  "request_data": {
+    "message_1": "안녕하세요, Fluxon!",
+    "message_2": "메시지 반환 테스트입니다."
+  }
+}

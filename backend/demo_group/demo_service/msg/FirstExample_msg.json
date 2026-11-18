@@ -1,0 +1,12 @@
+{
+  "KOR": {
+    "0": "메시지를 받았습니다.",
+    "10": "보낼 메시지를 입력하세요.",
+    "11": "메시지는 1000자 이하로 입력하세요."
+  },
+  "USA": {
+    "0": "Message received.",
+    "10": "Enter a message to send.",
+    "11": "Enter a message of 1000 characters or fewer."
+  }
+}

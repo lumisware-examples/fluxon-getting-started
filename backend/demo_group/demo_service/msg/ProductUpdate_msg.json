@@ -1,0 +1,26 @@
+{
+  "KOR": {
+    "0": "상품 수정이 완료되었습니다.",
+    "10": "수정할 상품이 없습니다.",
+    "11": "상품명을 입력하세요.",
+    "12": "상품명은 80자 이하로 입력하세요.",
+    "13": "상품 분류는 영문 대문자와 밑줄로 1–40자 입력하세요.",
+    "14": "가격을 입력하세요.",
+    "15": "가격은 정수로 입력하세요.",
+    "16": "가격은 0 이상이어야 합니다.",
+    "17": "가격이 저장 가능한 범위를 넘었습니다.",
+    "18": "상품 ID는 1–2147483647 사이의 정수여야 합니다."
+  },
+  "USA": {
+    "0": "Product updated successfully.",
+    "10": "The product to update was not found.",
+    "11": "Enter a product name.",
+    "12": "Product names must be 80 characters or fewer.",
+    "13": "Product categories must contain 1–40 uppercase letters or underscores.",
+    "14": "Enter a price.",
+    "15": "The price must be an integer.",
+    "16": "The price must be 0 or greater.",
+    "17": "The price exceeds the supported range.",
+    "18": "The product ID must be an integer between 1 and 2147483647."
+  }
+}

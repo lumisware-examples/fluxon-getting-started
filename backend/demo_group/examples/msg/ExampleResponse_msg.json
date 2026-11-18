@@ -1,0 +1,14 @@
+{
+  "KOR": {
+    "0": "{name}님, 정상 응답을 확인했습니다.",
+    "10": "업무 실패 응답을 확인했습니다.",
+    "11": "이름은 1–40자로 입력하세요.",
+    "12": "outcome은 success 또는 failure로 입력하세요."
+  },
+  "USA": {
+    "0": "{name}, the success response is ready.",
+    "10": "This is an example business failure.",
+    "11": "Enter a name of 1 to 40 characters.",
+    "12": "Set outcome to success or failure."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "com_code": "fluxondemo",
+  "group": "demo_group",
+  "service": "demo_service",
+  "call": "ExampleInitialDB",
+  "case": "work",
+  "c_code": "KOR"
+}

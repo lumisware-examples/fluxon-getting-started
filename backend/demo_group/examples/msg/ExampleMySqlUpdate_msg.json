@@ -1,0 +1,16 @@
+{
+  "KOR": {
+    "0": "실습 데이터를 수정했습니다.",
+    "10": "수정할 실습 데이터가 없습니다.",
+    "11": "이름은 공백을 제외하고 1–80자로 입력하세요.",
+    "12": "가격은 0–2147483647의 정수로 입력하세요.",
+    "13": "ID는 1–2147483647의 정수로 입력하세요."
+  },
+  "USA": {
+    "0": "Updated the lesson record.",
+    "10": "The lesson record to update does not exist.",
+    "11": "Enter a name of 1 to 80 characters after trimming.",
+    "12": "Enter an integer price from 0 to 2147483647.",
+    "13": "Enter an integer ID from 1 to 2147483647."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "case": "work",
+  "com_code": "fluxondemo",
+  "group": "demo_group",
+  "service": "demo_service",
+  "call": "FirstExample",
+  "c_code": "KOR",
+  "cache_sec": 0,
+  "wait_sec": 10,
+  "request_data": {
+    "req_field_1": "1번 필드",
+    "req_field_2": "2번 필드"
+  }
+}

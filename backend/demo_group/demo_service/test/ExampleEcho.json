@@ -1,0 +1,11 @@
+{
+  "com_code": "fluxondemo",
+  "group": "demo_group",
+  "service": "demo_service",
+  "call": "ExampleEcho",
+  "case": "work",
+  "c_code": "KOR",
+  "request_data": {
+    "message": "안녕하세요, Fluxon!"
+  }
+}

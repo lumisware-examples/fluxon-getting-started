@@ -1,0 +1,15 @@
+{
+  "case": "work",
+  "com_code": "fluxondemo",
+  "group": "demo_group",
+  "service": "examples",
+  "call": "ExampleTypeConversion",
+  "c_code": "KOR",
+  "cache_sec": 0,
+  "wait_sec": 10,
+  "request_data": {
+    "quantity": "2",
+    "enabled": "true",
+    "unit_price": "1000"
+  }
+}

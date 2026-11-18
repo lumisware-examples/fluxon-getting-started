@@ -1,0 +1,10 @@
+{
+  "KOR": {
+    "0": "실습 테이블 준비를 완료했습니다.",
+    "10": "에러가 발생하였습니다."
+  },
+  "USA": {
+    "0": "The lesson table is ready.",
+    "10": "Failed to create the practice table."
+  }
+}

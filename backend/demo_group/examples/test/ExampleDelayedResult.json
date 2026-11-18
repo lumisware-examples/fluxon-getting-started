@@ -1,0 +1,13 @@
+{
+  "case": "work",
+  "com_code": "fluxondemo",
+  "group": "demo_group",
+  "service": "examples",
+  "call": "ExampleDelayedResult",
+  "c_code": "KOR",
+  "cache_sec": 0,
+  "wait_sec": 1,
+  "request_data": {
+    "delay_sec": 3
+  }
+}

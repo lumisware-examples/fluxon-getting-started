@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS total FROM {schema_name}.demo_products WHERE (:category IS NULL OR category = :category);

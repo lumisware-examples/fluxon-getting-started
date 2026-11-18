@@ -1,0 +1,12 @@
+{
+  "KOR": {
+    "0": "실습 데이터를 조회했습니다.",
+    "10": "ID는 1–2147483647의 정수로 입력하세요.",
+    "11": "조회 개수는 1–50의 정수로 입력하세요."
+  },
+  "USA": {
+    "0": "Retrieved the lesson records.",
+    "10": "Enter an integer ID from 1 to 2147483647.",
+    "11": "Enter an integer limit from 1 to 50."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "case": "work",
+  "com_code": "fluxondemo",
+  "group": "demo_group",
+  "service": "examples",
+  "call": "ExampleMySqlInsert",
+  "c_code": "KOR",
+  "cache_sec": 0,
+  "wait_sec": 10,
+  "request_data": {
+    "name": "실습",
+    "price": -1
+  }
+}

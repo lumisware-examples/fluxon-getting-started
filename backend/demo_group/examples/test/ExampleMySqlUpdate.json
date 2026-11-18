@@ -1,0 +1,15 @@
+{
+  "case": "work",
+  "com_code": "fluxondemo",
+  "group": "demo_group",
+  "service": "examples",
+  "call": "ExampleMySqlUpdate",
+  "c_code": "KOR",
+  "cache_sec": 0,
+  "wait_sec": 10,
+  "request_data": {
+    "id": 1,
+    "name": "수정한 실습 노트",
+    "price": 2000
+  }
+}

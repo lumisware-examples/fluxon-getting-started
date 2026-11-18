@@ -1,0 +1,13 @@
+{
+  "com_code": "fluxondemo",
+  "group": "demo_group",
+  "service": "demo_service",
+  "call": "ExampleInsert",
+  "case": "work",
+  "c_code": "KOR",
+  "request_data": {
+    "category": "HOME",
+    "name": "Glass Cup",
+    "price": 6000
+  }
+}

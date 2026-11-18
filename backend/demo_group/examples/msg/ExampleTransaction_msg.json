@@ -1,0 +1,12 @@
+{
+  "KOR": {
+    "0": "두 등록을 하나의 트랜잭션으로 확정했습니다.",
+    "10": "실습 실패를 재현해 두 등록을 모두 취소했습니다.",
+    "11": "simulate_failure는 true 또는 false로 입력하세요."
+  },
+  "USA": {
+    "0": "Committed both inserts in one transaction.",
+    "10": "Simulated a failure and rolled back both inserts.",
+    "11": "Set simulate_failure to true or false."
+  }
+}

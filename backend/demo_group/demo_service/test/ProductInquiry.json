@@ -1,0 +1,12 @@
+{
+  "com_code": "fluxondemo",
+  "group": "demo_group",
+  "service": "demo_service",
+  "call": "ProductInquiry",
+  "case": "work",
+  "c_code": "KOR",
+  "request_data": {
+    "category": null,
+    "limit": 50
+  }
+}

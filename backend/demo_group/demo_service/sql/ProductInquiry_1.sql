@@ -1,0 +1,1 @@
+SELECT id, name, category, price FROM {schema_name}.demo_products WHERE (:category IS NULL OR category = :category) ORDER BY id ASC LIMIT :limit;

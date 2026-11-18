@@ -1,0 +1,12 @@
+{
+  "KOR": {
+    "0": "입력값 검사를 통과했습니다.",
+    "10": "이름은 공백을 제외하고 1–40자로 입력하세요.",
+    "11": "수량은 1–100의 정수로 입력하세요."
+  },
+  "USA": {
+    "0": "Input validation passed.",
+    "10": "Enter a name of 1 to 40 characters after trimming.",
+    "11": "Enter an integer quantity from 1 to 100."
+  }
+}
